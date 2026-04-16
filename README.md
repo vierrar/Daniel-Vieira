@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=vulgosoufer&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h3>Senior Backend Engineer & Cybersecurity Specialist</h3>
+  <h3>Backend Engineer & Cybersecurity Specialist</h3>
   
   <p>
     Brazilian developer with 9+ years of experience building secure, scalable, and high-performance systems.
