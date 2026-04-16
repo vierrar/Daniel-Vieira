@@ -4,10 +4,10 @@
     width="100%" 
   />
 
-  <h3>Backend Engineer & Cybersecurity Specialist</h3>
+  <h3>Backend Engineer • Cybersecurity Specialist • Systems Architect</h3>
   
   <p>
-    Brazilian developer with 9+ years of experience building secure, scalable, and high-performance systems.
+    Brazilian developer with 9+ years of experience building secure, scalable and production-grade systems.
   </p>
 
   <a href="https://github.com/vulgosoufer">
@@ -19,65 +19,81 @@
 
 ## 🧠 About Me
 
-I’m a Brazilian software engineer focused on **system architecture and cybersecurity**, with over **9 years of hands-on experience** designing and developing robust applications.
+I’m a Brazilian software engineer focused on **distributed systems, backend architecture and cybersecurity**, with over **9 years of real-world experience**.
 
-My work blends **full-stack engineering** with **offensive and defensive security**, ensuring that performance never compromises data integrity.
+I specialize in designing **high-availability systems**, securing APIs under pressure, and building infrastructures that don’t collapse when traffic spikes or attackers show up.
 
-Currently, I split my time between building enterprise-grade solutions and crafting complex digital ecosystems within **Vierrar Studios**.
-
-- **Expertise:** API Security, Pentesting, Cryptography, Injection Prevention
-- **Current Focus:** Scalable architectures with Node.js, .NET, and secure.
-- **Approach:** Performance-first, security-always mindset
+- **Expertise:** API Security, Pentesting, Cryptography, Secure Architecture
+- **Focus:** High-scale backend systems, cloud infrastructure, zero-trust environments
+- **Mindset:** Performance-first. Security-always. Failure-aware.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Arsenal
 
-### ⚙️ Backend & Core
+### ⚙️ Backend & Core Systems
 <div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 </div>
 
-### 🧩 Frontend & App
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
-</div>
+---
 
-### 🗄️ Databases & Data
+### 🗄️ Databases, Caching & Messaging
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </div>
 
-### 🔐 Cybersecurity & Infra
+---
+
+### 🔐 Cybersecurity & Offensive/Defensive
 <div align="left">
-  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/PenTesting-FF6600?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-37474F?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
 
-### ☁️ DevOps & Cloud
+---
+
+### 🌐 Infrastructure, Networking & Edge
 <div align="left">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-CA2131?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/CDN-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WAF-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reverse_Proxy-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Load_Balancer-444444?style=for-the-badge" />
+</div>
+
+---
+
+### ☁️ Cloud, DevOps & Observability
+<div align="left">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div>
 
@@ -97,5 +113,5 @@ Currently, I split my time between building enterprise-grade solutions and craft
 <br />
 
 <div align="center">
-  <sub>© 2026 Vierrar Dev — Engineering the future, securing the present.</sub>
+  <sub>© 2026 Vierrar Dev — Engineering systems that don’t break. Securing systems that shouldn’t be broken.</sub>
 </div>
