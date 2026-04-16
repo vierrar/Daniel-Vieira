@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=vulgosoufer&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Vierrar%20Dev&fontSize=60&fontAlignY=40&color=0:0f0f14,50:5865F2,100:ffffff&fontColor=ffffff&animation=fadeIn" 
+    width="100%" 
+  />
 
   <h3>Backend Engineer & Cybersecurity Specialist</h3>
   
@@ -8,7 +11,7 @@
   </p>
 
   <a href="https://github.com/vulgosoufer">
-    <img src="https://img.shields.io/github/followers/vierrar?label=Follow&style=for-the-badge&color=00d2ff&logo=github" />
+    <img src="https://img.shields.io/github/followers/vierrar?label=Follow&style=for-the-badge&color=5865F2&logo=github&logoColor=white" />
   </a>
 </div>
 
